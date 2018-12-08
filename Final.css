@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Museo';
+    src: url("bodoni/BodoniSvtyTwolTcct-Bold.eot");
+    src: 
+    url("bodoni/BodoniSvtyTwolTCtt-Book.woff") format("woff"),
+    url("bodoni/BodoniSvtyTwolTCCT-Book.ttf") format("truetype"),
+    url("bodoni/BodoniSvtyTwolTCCT-Book.svg") format("svg");
+    }
+
+.navlinks {
+
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 50px;
+}
